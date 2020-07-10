@@ -1,12 +1,12 @@
-##Tools Needed
+## Tools Needed
 
 The following is a list of tools you will use to build a wood shed. 
 
-*. Hammer
+- Hammer
 
-*. Circular Saw / Chop saw
+- Circular Saw / Chop saw
 
-*. Tape Measure
+- Tape Measure
 
-*. Level
+- Level
 
